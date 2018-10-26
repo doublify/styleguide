@@ -1,0 +1,6 @@
+[package]
+name = "license-example"
+version = "0.1.0"
+authors = ["Fadi Hadzh <fdhadzh@gmail.com>"]
+
+[dependencies]
